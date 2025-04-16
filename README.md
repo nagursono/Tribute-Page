@@ -1,4 +1,5 @@
-#Overview
+#Tribute-page
+Overview
 The Tribute Page is a simple project built using HTML and CSS to honor a person or entity that inspires you. It showcases your skills in structuring web pages and styling them while delivering a visually appealing and responsive design.
 Features
 - A clean and responsive layout.
